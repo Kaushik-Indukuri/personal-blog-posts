@@ -1,5 +1,5 @@
 ---
-title: "Why My Perspective on Joining a Startup Out of College Has Changed"
+title: "Why I Rethought My Dream of Joining a FAANG Company"
 date: Feb 6, 2025
 read_time: 4 min
 ---
