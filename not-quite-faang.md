@@ -53,7 +53,7 @@ And surprise, surprise—FAANG didn’t score so hot. At least, not in my matrix
 
 These days, my dream looks different.
 
-I want to build things that feel alive. Products that make people feel something. I want to work with folks who are scrappy and ambitious, who laugh at bad jokes and debate product decisions over oat lattes.
+I want to build things that feel alive. Products that make people feel something. I want to work with folks who are scrappy and ambitious, who laugh at bad jokes and debate product decisions over oat lattes  (I don't actually drink coffee — boba, anyone?).
 
 I want to feel like I’m a human in a messy, meaningful journey.
 
