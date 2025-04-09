@@ -4,15 +4,10 @@ date: Apr 8, 2025
 read_time: 4 min
 ---
 
-Get good grades. Fill my resume with acronyms. Leetcode like my life depended on it. And then, one day, walk through the sliding glass doors of a FAANG company with a badge that gave me free food and an identity.
+Get good grades. Fill my resume with acronyms. Leetcode like my life depended on it. And then, one day, walk through the sliding glass doors of a FAANG company with a badge that gave me free food and an identity. I used to think that was the dream. Maybe because it was everywhere—plastered on Reddit threads, whispered in CS lecture halls, bragged about on LinkedIn timelines like some kind of badge of honor. FAANG, we were told, is the pinnacle. The endgame.
 
-I used to think that was the dream. Maybe because it was everywhere—plastered on Reddit threads, whispered in CS lecture halls, bragged about on LinkedIn timelines like some kind of badge of honor. FAANG, we were told, is the pinnacle. The endgame.
+But slowly, almost imperceptibly, that dream started to feel… hollow. It wasn’t a dramatic breakup. There was no moment of existential panic where I ripped my Leetcode notebook in half and ran barefoot into the woods. It was more like a quiet drifting. A gentle realization that maybe the dream I was chasing wasn’t mine to begin with.
 
-But slowly, almost imperceptibly, that dream started to feel… hollow.
-
-It wasn’t a dramatic breakup. There was no moment of existential panic where I ripped my Leetcode notebook in half and ran barefoot into the woods. It was more like a quiet drifting. A gentle realization that maybe the dream I was chasing wasn’t mine to begin with.
-
----
 
 **What Do I Actually Want?**
 
@@ -30,7 +25,7 @@ I started writing.
 
 Money was still on the list but prestige didn’t even make the cut. And slowly, as I started building out my own little "job decision matrix" (yes, I made one), it became clear: the traditional FAANG route checked some boxes, but not the ones that mattered most.
 
----
+
 
 **The Matrix Moment**
 
@@ -46,11 +41,11 @@ For those who like a bit of structure, here’s what my decision matrix looked l
 | Stability                | 3           |                     |
 | Work-Life Harmony        | 4           |                     |
 
-Then I filled in the rows: early-stage startups, mid-stage, unicorns, pre-IPOs, big tech. You get the idea.
+Then I filled in the columns: early-stage startups, mid-stage, unicorns, pre-IPOs, big tech. You get the idea.
 
 And surprise, surprise—FAANG didn’t score so hot. At least, not in my matrix. Which was weirdly freeing. Like realizing the movie you were obsessed with as a kid isn’t actually that good, and you're finally okay admitting it.
 
----
+
 
 **So What Now?**
 
@@ -62,7 +57,7 @@ I want to feel like I’m a human in a messy, meaningful journey.
 
 Will I ever work at a big tech company? Maybe. I would go so far as to say probably. I'm not allergic to the idea. But it's no longer the dream. It’s just one option among many—and not the most exciting one, at least for now.
 
----
+
 
 **Final Thoughts (for Now)**
 
