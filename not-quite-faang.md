@@ -1,6 +1,6 @@
 ---
 title: "Not Quite FAANG: Why My Dream Changed"
-date: Apr 8, 2025
+date: Feb 6, 2025
 read_time: 4 min
 ---
 
