@@ -4,7 +4,7 @@ date: Feb 6, 2025
 read_time: 4 min
 ---
 
-Get good grades. Fill my resume with acronyms. Leetcode like my life depended on it. And then, one day, walk through the sliding glass doors of a FAANG company with a badge that gave me free food and an identity. 
+Get good grades. Fill my resume with acronyms. Leetcode like my life depends on it. And then, one day, walk through the sliding glass doors of a FAANG company with a badge that gives me free food and an identity. 
 
 I used to think that was the dream. Maybe because it was everywhere—plastered on Reddit threads, whispered in CS lecture halls, bragged about on LinkedIn timelines like some kind of badge of honor. FAANG, we were told, is the pinnacle. The endgame.
 
