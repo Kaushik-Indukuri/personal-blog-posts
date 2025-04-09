@@ -37,7 +37,7 @@ For those who like a bit of structure, here’s what my decision matrix looked l
 |--------------------------|-------------|---------------------|
 | Autonomy                 | 4           |                     |
 | Learning Velocity        | 7           |                     |
-| Team Energy              | 6           |                     |
+| Team Energy              | 7           |                     |
 | Impact (and ownership)   | 7           |                     |
 | Compensation             | 5           |                     |
 | Stability                | 3           |                     |
