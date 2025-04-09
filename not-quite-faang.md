@@ -63,9 +63,7 @@ Will I ever work at a big tech company? Maybe. I would go so far as to say proba
 
 ### Final Thoughts (for Now)
 
-There’s something poetic about choosing your own metrics for success.
-
-It’s scary, too. There’s no prestige safety net, no LinkedIn clout guarantee. But what you get instead is a little more truth. A little more you.
+There’s something poetic about choosing your own metrics for success. It’s scary, too. There’s no prestige safety net, no LinkedIn clout guarantee. But what you get instead is a little more truth. A little more you.
 
 So if you’re still chasing someone else’s dream, maybe take a moment to ask: why do I want this? That one question might just lead you down the same rabbit hole I found myself in.
 
