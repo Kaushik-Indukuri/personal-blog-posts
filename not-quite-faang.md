@@ -49,7 +49,7 @@ And surprise, surprise—FAANG didn’t score so hot. At least, not in my matrix
 
 
 
-### So What Now?
+### So What's Next?
 
 These days, my dream looks different.
 
